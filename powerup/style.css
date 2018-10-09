@@ -1,0 +1,179 @@
+@font-face
+{
+	font-family: "PressStart";
+	src: url(PrStart.ttf);
+}
+body
+{
+	image-rendering: -moz-crisp-edges;
+	image-rendering: -o-crisp-edges;
+	image-rendering: crisp-edges;
+	image-rendering: -webkit-optimize-contrast;
+}
+#menuclosed
+{
+	display: block;
+	top: 0px; 
+	left:0px;
+	width: 100%;
+	background-color: black;
+	color: purple;
+	position: fixed;
+	text-shadow: 4px 4px #646464;
+	font-family: PressStart, Goonies;
+	padding-bottom: 10px;
+}
+#menu
+{
+	display: none;
+	top: 0px; 
+	left:0px;
+	width: 0%;
+	height: 100%;
+	background-color: black;
+	color: white;
+	position: fixed;
+	/*transition: 2s;*/
+}
+#menutext
+{
+	display: none;
+	color: black;
+	font-family: PressStart, Goonies;
+	font-size: 150%;
+	transition: 0.5s;
+}
+#menutext a:hover
+{
+	color: purple;
+	text-shadow: 2px 2px white;
+	font-family: PressStart, Goonies;
+	font-size: 150%;
+	transition: 0.5s;
+}
+#toptext
+{
+	color: purple;
+	transition: 1.5s;
+}
+#toptext h1
+{
+	
+	text-shadow: 4px 4px #141414;
+}
+#scrolldown
+{
+	
+	position: absolute;
+	top: 90%;
+	right: 45%;
+	opacity: 0;
+	transition: 1.5s;
+}
+#menutext a
+{
+	color: white;
+	font-family: PressStart, Goonies;
+	font-size: 150%;
+	transition: 0.5s;
+}
+#currentpage
+{
+	color: purple;
+	text-shadow: 2px 2px white;
+	font-family: PressStart, Goonies;
+	font-size: 150%;
+	transition: 0.5s;
+}
+#content
+{
+	margin-top: 16px;
+	background-color: white;
+	border: 8px solid grey;
+	width: 95%;
+	margin-left: 0 auto;
+	font-family: PressStart, Sans-serif;
+	padding: 1%;
+	padding-top: 0px;
+}
+#video
+{
+	font-family: PressStart, Goonies;
+	margin-top: 96px;
+	height: 92%;
+}
+#video h1
+{
+	
+	position: absolute;
+	top: 45%;
+	right: 20%;
+	font-size: 460%;
+}
+
+#video h2
+{
+	
+	position: absolute;
+	top: 65%;
+	right: 18.5%;
+	font-size: 125%;
+}
+input[type=text]
+{
+	border: 8px lightgray solid;
+	height: 40px;
+	width: 320px;
+	font-family: PressStart, Goonies,sans-serif;
+	transition: 0.5s;
+}
+input[type=text]:hover
+{
+	border: 8px purple solid;
+	height: 40px;
+	width: 320px;
+	font-family: PressStart, Goonies,sans-serif;
+	transition: 0.5s;
+}
+input[type=submit]
+{
+	border: 4px black solid;
+	height: 50px;
+	width: 100px;
+	font-family: PressStart, Goonies,sans-serif;
+	font-weight: bold;
+	margin: 16px;
+	transition: 0.5s;
+}
+	
+input[type=submit]:hover
+{
+	border: 4px black solid;
+	background-color: black;
+	color: white;
+	height: 50px;
+	width: 100px;
+	font-family: PressStart, Goonies,sans-serif;
+	font-weight: bold;
+	margin: 16px;
+	transition: 0.5s;
+}
+textarea
+{
+	/*resize: none;*/
+	border: 8px lightgray solid;
+	height: 50%;
+	width: 320px;
+	font-family: PressStart, Goonies,sans-serif;
+	transition: 0.5s;
+}
+	
+textarea:hover
+{
+	/*resize: none;*/
+	border: 8px purple solid;
+	height: 51%;
+	width: 330px;
+	font-family: PressStart,sans-serif;
+	transition: 0.5s;
+}

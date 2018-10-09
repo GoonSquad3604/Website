@@ -1,0 +1,440 @@
+
+	@font-face
+	{
+		font-family: "Goonies";
+		src: url(goonfont.ttf);
+	}
+	
+	#goonsquadlogo
+	{
+		padding-right: 0px;
+	}
+	@media screen and (max-width: 1024px)
+	{
+		#homecontent
+		{
+			padding-top: 144px;
+		}
+		#gstext
+		{
+			font-family: Goonies; 
+			color: purple; font-size: 48pt; 
+			margin-top: -16%;
+		}
+		body
+		{
+			background-color: #f7f7f7; 
+		}
+		.content
+		{
+			background-color: #f7f7f7;
+			margin-left: auto;
+			margin-right: auto;
+			width: 90%;
+			font-family: Open Sans, sans-serif;
+			padding-top: 144px;			
+		}
+		.header h1
+		{
+			font-family: Open Sans, sans-serif;
+			margin-bottom: 0px;
+		}
+		.menu
+		{
+			top: 0px;
+			position: fixed;
+			left: 10%;
+			/*background-color: #6b0262;*/
+			background-color: black;
+			width: 90%;
+			height: 80px;
+			padding-top: 32px;
+			
+		}
+		.menu a
+		{
+			padding-bottom: 32px;
+			color: white;
+			font-weight: bold;
+			padding-top: 96px;
+			padding-left: 8px;
+			padding-right: 8px;
+			transition: 0.5s;
+			text-decoration: none;
+		}
+		.menu a:hover
+		{
+			padding-bottom: 64px;
+			color: white;
+			background: purple;
+			font-weight: bold;
+			padding-top: 96px;
+			padding-left: 8px;
+			padding-right: 8px;
+		}
+		#currentpage
+		{
+			padding-bottom: 64px;
+			color: white;
+			background: #6b0262;
+			font-weight: bold;
+			padding-top: 96px;
+			padding-left: 8px;
+			padding-right: 8px;
+		}
+		.header
+		{
+			top: 0px;
+			left: 0px;
+			width: 8%;
+			margin: 0px auto;
+			background-color: black;
+			padding-top: 8px;
+			padding-bottom: 8px;
+			padding-right: 2.2%;
+			position: fixed;
+			color: white;
+			font-family: Open Sans, sans-serif;
+			height: 96px;
+		}
+		
+		.footer
+		{
+			position: fixed;
+			top: 86%;
+			height: 60%;
+			width: 100%;
+			left: 0px;
+			background-color: black;
+			opacity: 0.3;
+			transition: 0.5s;
+		}
+		.footer img
+		{
+			height: 20%;
+			padding: 1%;
+			margin-right: 8px;
+			/*margin-right: 32px;*/
+			opacity: 0.6;
+			transition: 0.5s;
+		}
+		
+		.footer:hover
+		{
+			position: fixed;
+			top: 86%;
+			height: 60%;
+			width: 100%;
+			left: 0px;
+			background-color: black;
+			opacity: 0.8;
+			transition: 0.5s;
+		}
+		.footer img:hover
+		{
+			height: 20%;
+			padding: 1%;
+			margin-right: 8px;
+			/*margin-right: 32px;*/
+			opacity: 1;
+			transition: 0.5s;
+		}
+		
+		.content
+		{
+			width: 90%;
+		}
+		.content img
+		{
+			padding-right: 128px;
+		}
+		.header h4
+		{
+			margin-top: 0px;
+		}
+		.header img
+		{
+			width: 100%;
+		}
+		input[type=text]
+		{
+			border: 8px lightgray solid;
+			height: 40px;
+			width: 320px;
+			font-family: 'Open Sans',sans-serif;
+			transition: 0.5s;
+		}
+		input[type=text]:hover
+		{
+			border: 8px purple solid;
+			height: 40px;
+			width: 320px;
+			font-family: 'Open Sans',sans-serif;
+			margin-top: 10px;
+			transition: 0.5s;
+		}
+		input[type=submit]
+		{
+			border: 4px black solid;
+			height: 50px;
+			width: 100px;
+			font-family: 'Open Sans',sans-serif;
+			font-weight: bold;
+			margin: 16px;
+			transition: 0.5s;
+		}
+		
+		input[type=submit]:hover
+		{
+			border: 4px black solid;
+			background-color: black;
+			color: white;
+			height: 50px;
+			width: 100px;
+			font-family: 'Open Sans',sans-serif;
+			font-weight: bold;
+			margin: 16px;
+			transition: 0.5s;
+		}
+		textarea
+		{
+			/*resize: none;*/
+			border: 8px lightgray solid;
+			height: 50%;
+			width: 320px;
+			font-family: 'Open Sans',sans-serif;
+			transition: 0.5s;
+		}
+		
+		textarea:hover
+		{
+			/*resize: none;*/
+			border: 8px purple solid;
+			height: 51%;
+			width: 330px;
+			font-family: 'Open Sans',sans-serif;
+			transition: 0.5s;
+		}
+			
+	}			
+	@media screen and (min-width: 1024px)
+	{
+		body
+		{
+			text-shadow: 2px 2px 5px #333333;
+		}
+		
+		.menu
+		{
+			text-shadow: 2px 2px 8px white; 
+		}
+		#gstext
+		{
+			font-family: Goonies; 
+			color: purple; font-size: 48pt; 
+			margin-top: -128px;
+		}
+		body
+		{
+			background-color: black; 
+		}
+		.content
+		{
+			background-color: #f7f7f7;
+			margin-left: auto;
+			margin-right: auto;
+			width: 80%;
+			font-family: Open Sans, sans-serif;			
+		}
+		.header h1
+		{
+			font-family: Open Sans, sans-serif;
+			margin-bottom: 0px;
+		}
+		.menu
+		{
+			top: 0px;
+			position: fixed;
+			left: 10%;
+			/*background-color: #6b0262;*/
+			background-color: black;
+			width: 90%;
+			height: 64px;
+			padding-top: 16px;
+			
+		}
+		.menu a
+		{
+			padding-bottom: 48px;
+			color: white;
+			font-size: 12pt;
+			font-weight: bold;
+			padding-top: 48px;
+			padding-left: 8px;
+			padding-right: 8px;
+			transition: 0.5s;
+			text-decoration: none;
+		}
+		.menu a:hover
+		{
+			padding-bottom: 48px;
+			color: white;
+			background: purple;
+			font-size: 12pt;
+			font-weight: bold;
+			padding-top: 48px;
+			padding-left: 8px;
+			padding-right: 8px;
+		}
+		#currentpage
+		{
+			padding-bottom: 41px;
+			color: white;
+			background: #6b0262;
+			font-size: 12pt;
+			font-weight: bold;
+			padding-top: 32px;
+			padding-left: 8px;
+			padding-right: 8px;
+		}
+		.header
+		{
+			top: 0px;
+			left: 0px;
+			width: 8%;
+			margin: 0px auto;
+			background-color: black;
+			padding-top: 8px;
+			padding-bottom: 8px;
+			padding-right: 2%;
+			position: fixed;
+			color: white;
+			font-family: Open Sans, sans-serif;
+			height: 64px;
+		}
+		
+		.footer
+		{
+			position: fixed;
+			top: 92%;
+			height: 8%;
+			width: 100%;
+			margin-left: 4%;
+			background-color: black;
+			opacity: 0.3;
+			transition: 0.5s;
+		}
+		.footer img
+		{
+			height: 50%;
+			padding: 1%;
+			margin-right: 8px;
+			/*margin-right: 32px;*/
+			opacity: 0.6;
+			transition: 0.5s;
+		}
+		
+		.footer:hover
+		{
+			position: fixed;
+			top: 92%;
+			height: 8%;
+			width: 100%;
+			margin-left: 4%;
+			background-color: black;
+			opacity: 0.8;
+			transition: 0.5s;
+		}
+		.footer img:hover
+		{
+			height: 50%;
+			padding: 1%;
+			margin-right: 8px;
+			/*margin-right: 32px;*/
+			opacity: 1;
+			transition: 0.5s;
+		}
+		
+		.content
+		{
+			padding-top: 72px;
+			width: 90%;
+		}
+		.content img
+		{
+			padding-right: 128px;
+		}
+		.header h4
+		{
+			margin-top: 0px;
+		}
+		.header img
+		{
+			width: 60%;
+		}
+		input[type=text]
+		{
+			border: 8px lightgray solid;
+			height: 40px;
+			width: 320px;
+			font-family: 'Open Sans',sans-serif;
+			transition: 0.5s;
+		}
+		input[type=text]:hover
+		{
+			border: 8px purple solid;
+			height: 40px;
+			width: 320px;
+			font-family: 'Open Sans',sans-serif;
+			margin-top: 10px;
+			transition: 0.5s;
+		}
+		input[type=submit]
+		{
+			border: 4px black solid;
+			height: 50px;
+			width: 100px;
+			font-family: 'Open Sans',sans-serif;
+			font-weight: bold;
+			margin: 16px;
+			transition: 0.5s;
+		}
+		
+		input[type=submit]:hover
+		{
+			border: 4px black solid;
+			background-color: black;
+			color: white;
+			height: 60px;
+			width: 110px;
+			font-family: 'Open Sans',sans-serif;
+			font-weight: bold;
+			margin: 16px;
+			transition: 0.5s;
+		}
+		textarea
+		{
+			/*resize: none;*/
+			border: 8px lightgray solid;
+			height: 50%;
+			width: 320px;
+			font-family: 'Open Sans',sans-serif;
+			transition: 0.5s;
+		}
+		
+		textarea:hover
+		{
+			/*resize: none;*/
+			border: 8px purple solid;
+			height: 50%;
+			width: 320px;
+			font-family: 'Open Sans',sans-serif;
+			transition: 0.5s;
+		}
+		
+		#homecontent
+		{
+			padding-top: 64px;
+		}
+			
+	}

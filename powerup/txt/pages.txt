@@ -1,0 +1,6 @@
+index.php|Home
+calendar.php|Calendar
+sponsors.php|Sponsors
+contact.php|Contact
+/robots/index.php|Robots
+/blog/index.php|Blog?
