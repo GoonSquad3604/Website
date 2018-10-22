@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Goon Squad | Home</title>
+		<title>Goon Squad Blog | Home</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css"/>
 	</head>
 	<body>
@@ -11,11 +11,11 @@
 	</div>-->
 	<?php include("php/menu.php")?>
 	<div id="content">
-	<span id="goon">Robots</span>
+	<span id="goon">Blog</span>
 	<br>
 	<H2>Team 3604</H2>
-	<br>
-	This page has not landed yet. Check back later for updates.
+	<H2 style="color: red;">Coming Soon!</H2>
+	If you want to read the legacy news page, you can do so <a href="legacynews.php">here</a>.
 	</div>
 	</body>
 <script src = "js/highlightscript.js">

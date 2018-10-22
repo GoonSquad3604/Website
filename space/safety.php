@@ -15,6 +15,7 @@
 	<br>
 	<H2>Team 3604</H2>
 	<br>
+	This page has not landed yet. Check back later for updates.
 	</div>
 	</body>
 <script src = "js/highlightscript.js">

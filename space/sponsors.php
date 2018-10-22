@@ -30,11 +30,13 @@
 		<img src="img/dadara.png" height="64px">&nbsp &nbsp &nbsp
 		<a href="https://www.texasroadhouse.com/" style="text-decoration: none;"><img src="img/texasRoadhouse.png" height="64px"></a>&nbsp &nbsp &nbsp
 		<a href="http://www.nvidia.com/content/global/global.php"><img src="img/nvidia-logo.png" height="64px"></a>&nbsp &nbsp &nbsp
+		<a href="http://bestbuy.com/"><img src="img/bestbuy.png" height="64px"></a>&nbsp &nbsp &nbsp
+		<a href="http://www.valiantcorp.com/"><img src="img/valiant.png" height="64px"></a>&nbsp &nbsp &nbsp
 		<br>
 		<a href="https://megs.mde.state.mi.us/megs/" style="color: white; text-decoration: none; font-family: Sans-serif;">
 		<img src="img/michigan.png" height="64px">&nbsp &nbsp &nbsp
 		<br>
-		Michigan Educational Grant
+		<span style="color:black">Michigan Educational Grant</a>
 		</a>
 	</div>
 	</body>

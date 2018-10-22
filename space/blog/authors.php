@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Goon Squad | Home</title>
+		<title>Goon Squad Blog | Authors</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css"/>
 	</head>
 	<body>
@@ -11,10 +11,9 @@
 	</div>-->
 	<?php include("php/menu.php")?>
 	<div id="content">
-	<span id="goon">Robots</span>
+	<span id="goon">Blog Authors</span>
 	<br>
 	<H2>Team 3604</H2>
-	<br>
 	This page has not landed yet. Check back later for updates.
 	</div>
 	</body>

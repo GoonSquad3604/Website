@@ -13,7 +13,7 @@
 	<div id="content">
 	<span id="goon">GOON SQUAD</span>
 	<span style="float: right; font-size: 36pt; font-weight: bold; margin-top: 14px;">Team 3604</span>
-	<p style="margin-top: 6px;">We are the Goon Squad, the First Robotics Team from Woodhaven High School.</p>
+	<p style="margin-top: 6px;">We are the Goon Squad, Team 3604. We are an FRC Robotics Team for Woodhaven High School / Woodhaven-Brownstown School District. We have been a team for 7 years and running, with many great sponsors and mentors supporting us along the way! Our school is located on Van Horn Rd in <strong>Brownstown, Michigan.</strong> </p>
 	<!--<p>We are the Goon Squad, Team 3604. We are an FRC Robotics Team for Woodhaven High School / Woodhaven-Brownstown School District. We have been a team for 7 years and running, with many great sponsors and mentors supporting us along the way! Our school is located on Van Horn Rd in <strong>Brownstown, Michigan.</strong></p>-->
 	
 	<!--<video id="homepageVideo">
@@ -32,7 +32,8 @@
 		</a>
 			 
 		<br>-->
-		<center> <!--:: TODO :: Replace these janky center tags with something better!-->
+		<!--
+		<center> <!--:: TODO :: Replace these janky center tags with something better!
 		<img src="img/homepage_images/img0.png" id="slideshow"/>
 			
 		</center>
@@ -40,7 +41,7 @@
 				<span onclick="changeImage('img/homepage_images/img0.png')" class="kebob"> o </span>
 				<span onclick="changeImage('img/homepage_images/img1.png')" class="kebob"> o </span>
 				<span onclick="changeImage('img/homepage_images/img2.png')" class="kebob"> o </span>
-			</p>
+			</p>-->
 		<h1>Visit These Links!</h1>
 <br>
 		<a style="text-decoration: none;" href="http://wbsd.co">
