@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Goon Squad | Home</title>
+		<title>Goon Squad | Sponsors</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css"/>
 	</head>
 	<body>
@@ -12,8 +12,7 @@
 	<?php include("php/menu.php")?>
 	<div id="content">
 	<span id="goon">Sponsors</span>
-	<br>
-	<H2>Team 3604</H2>
+	<span style="float: right; font-size: 36pt; font-weight: bold; margin-top: 14px;">Team 3604</span>
 	<br>
 	</td><td>Visit our great sponsors!</td></tr></table><br><br>
 		 <a href="http://gm.com"><img src="img/gm.png" height="64px"></a>&nbsp &nbsp &nbsp
@@ -32,13 +31,16 @@
 		<a href="http://www.nvidia.com/content/global/global.php"><img src="img/nvidia-logo.png" height="64px"></a>&nbsp &nbsp &nbsp
 		<a href="http://bestbuy.com/"><img src="img/bestbuy.png" height="64px"></a>&nbsp &nbsp &nbsp
 		<a href="http://www.valiantcorp.com/"><img src="img/valiant.png" height="64px"></a>&nbsp &nbsp &nbsp
+		<a href="https://www.fcagroup.com/en-US/Pages/home.aspx"><img src="img/fca.png" height="64px"></a>&nbsp &nbsp &nbsp
+		<span style="font-size: 64px; font-weight: bold;">IICC</span>
 		<br>
 		<a href="https://megs.mde.state.mi.us/megs/" style="color: white; text-decoration: none; font-family: Sans-serif;">
 		<img src="img/michigan.png" height="64px">&nbsp &nbsp &nbsp
 		<br>
-		<span style="color:black">Michigan Educational Grant</a>
+		<span style="color:black">Michigan Educational Grant</a><br>
 		</a>
 	</div>
+	<?php include("php/footer.php")?>
 	</body>
 <script src = "js/highlightscript.js">
 </script>

@@ -11,9 +11,15 @@
 	</div>-->
 	<?php include("php/menu.php")?>
 	<div id="content">
-	<span id="goon">GOON SQUAD</span>
+	<span id="goon">GOON<font font="arial" size="8pt"> </font>SQUAD</span>
 	<span style="float: right; font-size: 36pt; font-weight: bold; margin-top: 14px;">Team 3604</span>
+	<table><tr><td width="66%">
 	<p style="margin-top: 6px;">We are the Goon Squad, Team 3604. We are an FRC Robotics Team for Woodhaven High School / Woodhaven-Brownstown School District. We have been a team for 7 years and running, with many great sponsors and mentors supporting us along the way! Our school is located on Van Horn Rd in <strong>Brownstown, Michigan.</strong> </p>
+	
+	</td><td width="33%" align="center">
+	<h1>Upcoming Events:</h1>
+	<h2><i>(Coming Soon)</i></h2>
+	</td></tr></table>
 	<!--<p>We are the Goon Squad, Team 3604. We are an FRC Robotics Team for Woodhaven High School / Woodhaven-Brownstown School District. We have been a team for 7 years and running, with many great sponsors and mentors supporting us along the way! Our school is located on Van Horn Rd in <strong>Brownstown, Michigan.</strong></p>-->
 	
 	<!--<video id="homepageVideo">
