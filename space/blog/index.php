@@ -12,11 +12,12 @@
 	<?php include("php/menu.php")?>
 	<div id="content">
 	<span id="goon">Blog</span>
-	<br>
-	<H2>Team 3604</H2>
+	<span style="float: right; font-size: 36pt; font-weight: bold; margin-top: 14px;">Team 3604</span>
+	<br><br>
 	<H2 style="color: red;">Coming Soon!</H2>
 	If you want to read the legacy news page, you can do so <a href="legacynews.php">here</a>.
 	</div>
+	<?php include("php/footer.php")?>
 	</body>
 <script src = "js/highlightscript.js">
 </script>
