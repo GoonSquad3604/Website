@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Goon Squad | Home</title>
+		<title>Goon Squad | Robots</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css"/>
 	</head>
 	<body>
@@ -12,11 +12,11 @@
 	<?php include("php/menu.php")?>
 	<div id="content">
 	<span id="goon">Robots</span>
-	<br>
-	<H2>Team 3604</H2>
-	<br>
+	<span style="float: right; font-size: 36pt; font-weight: bold; margin-top: 14px;">Team 3604</span>
+	<br><br>
 	This page has not landed yet. Check back later for updates.
 	</div>
+	<?php include("php/footer.php")?>
 	</body>
 <script src = "js/highlightscript.js">
 </script>

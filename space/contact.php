@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Goon Squad | Home</title>
+		<title>Goon Squad | Contact</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css"/>
 	</head>
 	<body>
@@ -12,12 +12,12 @@
 	<?php include("php/menu.php")?>
 	<div id="content">
 	<span id="goon">Contact</span>
+	<span style="float: right; font-size: 36pt; font-weight: bold; margin-top: 14px;">Team 3604</span>
 	<br>
-	<H2>Team 3604</H2>
-	<br>
-	<p>We are the Goon Squad, Team 3604. We are an FRC Robotics Team for Woodhaven High School / Woodhaven-Brownstown School District. We have been a team for 7 years and running, with many great sponsors and mentors supporting us along the way! Our school is located on Van Horn Rd in <strong>Brownstown, Michigan.</strong> </p>
-	
+	<H2>Contact at: whs.robotics.3604@gmail.com</H2>
+If you would like to contact the Goon Squad, please send us an email! We will get back to you as soon as we can! If you do not receive a response within 72 hours, please just send another email.
 	</div>
+	<?php include("php/footer.php")?>
 	</body>
 <script src = "js/highlightscript.js">
 </script>

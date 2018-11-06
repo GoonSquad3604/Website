@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Goon Squad | Home</title>
+		<title>Goon Squad | Calendar</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css"/>
 	</head>
 	<body>
@@ -12,12 +12,12 @@
 	<?php include("php/menu.php")?>
 	<div id="content">
 	<span id="goon">Calendar</span>
-	<br>
-	<H2>Team 3604</H2>
-	<br>
+	<span style="float: right; font-size: 36pt; font-weight: bold; margin-top: 14px;">Team 3604</span>
+	<br><br>
 	 <iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&height=800&wkst=1&bgcolor=%23c0c0c0&src=whs.robotics.3604@gmail.com&color=%235229A3&ctz=America/New_York" width="100%" style="height:150%;"></iframe>
 	
 	</div>
+	<?php include("php/footer.php")?>
 	</body>
 <script src = "js/highlightscript.js">
 </script>

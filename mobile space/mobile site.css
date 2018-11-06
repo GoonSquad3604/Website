@@ -1,0 +1,22 @@
+@font-face
+{
+	font-family: "SpaceFont";
+	src: url(fonts\Spaceport_2006);
+}
+@font-face
+{
+	font-family: "Goonies";
+	src: url("../goonfont.ttf");
+}
+body{
+background-image: url("C:\wamp64\www\Website-master\mobile space\img");
+}
+#fixed-title{
+	text-align: center;
+	font-family: Goonies;
+}
+@font-face
+{
+	font-family: "SpaceFont";
+	src: url("../Spaceport_2006.otf");
+}
