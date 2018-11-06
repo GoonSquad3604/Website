@@ -1,8 +1,8 @@
 # Website
 The Goon Squad website!
 
-##Developed By:
-###Desktop
+## Developed By:
+### Desktop
 `GoonTurtle / Murphy Justian`
-###Mobile
+### Mobile
 `LordOfTheFlame / Anthony D'Alfonso`
