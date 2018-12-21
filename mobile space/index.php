@@ -11,7 +11,7 @@
 	<script src="main.js"></script>
 	  <nav id="nav-main"/>
 	    <div id="btn-togle-nav" onclick="toggleNav()"></div>
-		<img id="logo_top" src="img/logo2"></img>
+		<img id="logo_top" src="img\logo_top.png"></img>
 		 <h1 id="GoonSquad">Goon Squad</h1>
 	  </nav>
 	  
@@ -49,7 +49,7 @@
 	   <img id="firstlogo" src="img/firstlogo.png">
 	   </a>
 	   <a style="text-decoration: none;" href="http://firstinmichigan.org">
-	   <img id="Michigan" src="img/Michigan">
+	   <img id="Michigan" src="img/Michigan.jpg">
 	   </a>	
 	   </div>
 	   <?php include("php/footer.php")?>

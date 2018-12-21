@@ -9,7 +9,7 @@
 	<script src="main.js"></script>
 	  <nav id="nav-main"/>
 	    <div id="btn-togle-nav" onclick="toggleNav()"></div>
-		<img id="logo_top" src="img/logo2"></img>
+		<img id="logo_top" src="img/logo_top.png"></img>
 		 <h1 id="GoonSquad">Goon Squad</h1>
 	  </nav>
 	  
