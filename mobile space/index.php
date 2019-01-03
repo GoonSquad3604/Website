@@ -49,7 +49,7 @@
 	   <img id="firstlogo" src="img/firstlogo.png">
 	   </a>
 	   <a style="text-decoration: none;" href="http://firstinmichigan.org">
-	   <img id="Michigan" src="img/Michigan.jpg">
+	 <img id="Michigan" src="img/firstinmichigan.png" height="10%">
 	   </a>	
 	   </div>
 	   <?php include("php/footer.php")?>
