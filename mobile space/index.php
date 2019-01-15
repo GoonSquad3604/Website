@@ -36,7 +36,13 @@
 	  <h1 id="upcoming">Upcoming Events:</h1>
 	  <br>
 	  <br>
-	  <h2 id="Coming"><i>(Coming Soon)</i></h2>
+	  <h2 ><i>Gibraltar</i></h2>
+	  <h3>week 1</h3>
+	  <h4 class = "dates">March 1st - 2nd</h4>
+	  <br>
+	  <h2 ><i>Jackson</i></h2>
+	  <h3>week 4</h3>
+	  <h4 class = "dates">March 22nd - 23rd</h4>
 	  <br>
 	  <br>
 	  <br>
