@@ -12,9 +12,19 @@
 	<?php include("php/menu.php")?>
 	<div id="content">
 	<span id="goon">Safety</span>
-	<span style="float: right; font-size: 36pt; font-weight: bold; margin-top: 14px;">Team 3604</span>
+	<span class="cal_goon">Team 3604</span>
 	<br><br>
-	This page has not landed yet. Check back later for updates.
+	<p>
+		In the shop, one of the most important things is safety. Without safety, people would be losing limbs left, right, and center. 
+		That is why the Goon Squad comes prepared with a plethora of safety equipment, and two highly trained safety captains that know 
+		how to use it all. Additionally, everyone on the team is trained, and certified in CPR (cardiopulmonary resuscitation), and AED 
+		(Automated External Defibrillator) in case someone ever becomes unresponsive, or pases out. Our safety captains insure our safety 
+		by providing us with evacuation plans in case of a emergency and treat simple cuts, and bruises that we may get in the shop to
+		make sure they do not get infected later. We have two safety captains; one being a veteran with 3 years of past experience, and 
+		the other being a rookie with it being their first year. Our lead safety captain won three URL safety stars in last years game two
+		at qualifying events and one at worlds! The safety captains keep a log of all of the past injuries in our shop, to prove how safe
+		we actually are. In conclusion, safety is one of the main priorities in our shop, and that is thanks to our great safety captains.
+	</p>
 	</div>
 	<?php include("php/footer.php")?>
 	</body>

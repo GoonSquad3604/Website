@@ -12,7 +12,7 @@
 	<?php include("php/menu.php")?>
 	<div id="content">
 	<span id="goon">Robots</span>
-	<span style="float: right; font-size: 36pt; font-weight: bold; margin-top: 14px;">Team 3604</span>
+	<span class="cal_goon">Team 3604</span>
 	<br><br>
 	This page has not landed yet. Check back later for updates.
 	</div>

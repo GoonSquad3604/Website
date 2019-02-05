@@ -1,4 +1,3 @@
 index.php|Blog Home
 articles.php|Articles
-authors.php|Authors
 ../index.php|Main Site
