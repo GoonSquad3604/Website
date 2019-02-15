@@ -7,7 +7,7 @@
 	<?php include("php/menu.php")?>
 	<div id="content">
 	<span id="goon">HTTP<span style="font-family: SpaceFont;font-weight: bold; color:red; font-size: 60pt;">404</span></span>
-	<span style="float: right; font-size: 36pt; font-weight: bold; margin-top: 14px;">Team 3604</span>
+	<span class="cal_goon">Team 3604</span>
 	<p style="margin-top: 6px;"><br><br>
 	<span id="goon" style="font-family: SpaceFont;font-weight: bold;color:darkblue; font-size: 30pt;">SPACEY ROADS<br>
 	TAKE ME <a href="index.php" style="text-decoration: none;">HOME</a><br>

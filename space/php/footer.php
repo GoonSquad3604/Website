@@ -11,3 +11,11 @@
 		</a>
 		<br><br>&nbsp
 		</div>
+		<script type="text/javascript" src="http://wurfl.io/wurfl.js">
+		</script>
+		<script>
+		if(WURFL.is_mobile === true && !(window.location.href.includes("mobile")))
+		{
+			window.location.replace("mobile/index.php");
+		}
+		</script>

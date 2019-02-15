@@ -1,0 +1,114 @@
+/*SPAAAAAAAAAAAAACE!!!*/
+@font-face
+{
+	font-family: "SpaceFont";
+	src: url("../Spaceport_2006.otf");
+}
+@font-face
+{
+	font-family: "Goonies";
+	src: url("../goonfont.ttf");
+}
+body
+{
+	background-image: url("../img/background.png");
+}
+#footer
+{
+	margin-left: 34vw;
+	height: 64px;
+	padding-bottom: 64px;
+}
+#footer a
+{
+	margin-right: 128px;
+}
+#slideshowkebobs
+{
+	margin-left: 350px;
+}
+.kebob
+{
+	margin-right: 128px;
+}
+#content
+{	
+	width: calc(95% - 128px);
+	float: right;
+	/*border: 8px solid gray;*/
+	padding: 1%;
+	background-color: f2f2f2;
+	color: black;
+	margin-bottom: 32px;
+	font-family: SpaceFont, Open Sans, Sans-serif;
+}
+#line
+{
+	position: fixed;
+	height: 90%;
+	width: 2px;
+	left: 150px;
+	background: linear-gradient(black,white,black);
+	float:right;
+}
+#menu
+{
+	width: 128px;
+	height: 100%;
+	float: left;
+	color: white;
+	margin-bottom: 8px;
+	display: inline-block;
+	position: fixed;
+}
+.link a
+{
+	position:relative;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: SpaceFont, Open Sans, Sans-serif;
+	font-size: 100%;
+	color: white;
+	
+}
+.link a:hover
+{
+	position:relative;
+	text-decoration: none;
+	font-weight: bold;
+	font-family: SpaceFont, Open Sans, Sans-serif;
+	font-size: 100%;
+	color: white;
+	
+}
+#sidebartitletext
+{
+	font-family: SpaceFont;
+	font-size: 8pt;
+}
+#goon
+{
+	font-family: Goonies;
+	font-size: 72px;
+	text-shadow: 4px 4px #999999;
+	/*color: 652d96;*/
+	color: 663366;
+}
+.rectangle
+{
+	margin-top: -2%;
+	margin-bottom: 6%;
+	margin-left: 0.5%;
+	width: 4px;
+	height: 20px;
+	background-color: white;
+	float: right;
+}
+h1
+{
+	font-size: 18pt;
+}
+#homepageVideo
+{
+width: 100%;
+}
