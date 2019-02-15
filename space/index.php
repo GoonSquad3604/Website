@@ -12,13 +12,19 @@
 	<?php include("php/menu.php")?>
 	<div id="content">
 		<span id="goon">GOON<font font="arial" size="8pt">&nbsp</font>SQUAD</span>
-	<span style="float: right; font-size: 36pt; font-weight: bold; margin-top: 14px;">Team 3604</span>
-	<table><tr><td width="66%">
+
+	<span class="cal_goon">Team 3604</span>
+	<table><tr><td width="66%" valign="top">
 	<p style="margin-top: 6px;">We are the Goon Squad, Team 3604. We are an FRC Robotics Team for Woodhaven High School / Woodhaven-Brownstown School District. We have been a team for 7 years and running, with many great sponsors and mentors supporting us along the way! Our school is located on Van Horn Rd in <strong>Brownstown, Michigan.</strong> </p>
 	
 	</td><td width="33%" align="center">
 	<h1>Upcoming Events:</h1>
-	<h2><i>(Coming Soon)</i></h2>
+	<h2><i>Gibraltar</i></h2>
+	<h3>Week 1</h3>
+	<p class="dates">March 1st - March 2nd</p>
+	<h2><i>Jackson</i></h2>
+	<h3>Week 4</h3>
+	<p class="dates">March 22nd - March 23rd</p>
 	</td></tr></table>
 	<!--<p>We are the Goon Squad, Team 3604. We are an FRC Robotics Team for Woodhaven High School / Woodhaven-Brownstown School District. We have been a team for 7 years and running, with many great sponsors and mentors supporting us along the way! Our school is located on Van Horn Rd in <strong>Brownstown, Michigan.</strong></p>-->
 	

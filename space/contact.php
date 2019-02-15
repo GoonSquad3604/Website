@@ -12,7 +12,7 @@
 	<?php include("php/menu.php")?>
 	<div id="content">
 	<span id="goon">Contact</span>
-	<span style="float: right; font-size: 36pt; font-weight: bold; margin-top: 14px;">Team 3604</span>
+	<span class="cal_goon">Team 3604</span>
 	<br>
 	<H2>Contact at: whs.robotics.3604@gmail.com</H2>
 If you would like to contact the Goon Squad, please send us an email! We will get back to you as soon as we can! If you do not receive a response within 72 hours, please just send another email.
