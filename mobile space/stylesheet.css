@@ -1,0 +1,199 @@
+@font-face{
+	font-family:space;
+	src:url(fonts/Spaceport_2006.otf);
+}
+@font-face{
+	font-family:goonfont;
+	src:url(fonts/goonfont.ttf);
+}
+body{
+	background-color:F1F1F1;
+}
+#logo_top{
+	height:100px;
+	margin-top:15px;
+	margin-left:115px;
+	position:fixed;
+}
+#GoonSquad{
+	color:white;
+	font-size:85px;
+	font-family:space;
+	margin-top:25px;
+	margin-left:200px;
+	position:fixed;
+}
+#nav-main
+{
+	position:fixed;
+	top:0;
+	width:100%;
+	height:150px;
+	background-image:url("img/background.png");
+	display:flex;
+	flex-wrap:wrap;
+	z-index:1000;
+}
+#btn-togle-nav
+{
+	width:120px;
+	height:100%;
+	background-color:black;
+	background-image:url("img/menuicon.png");
+	background-repeat:no-repeat;
+	background-size:70%;
+	background-position:center;
+	cursor:pointer;
+}
+#btn-togle-nav:hover
+{
+opacity:0.5;
+}
+#nav-main ul 
+{
+	display:flex;
+	flex-wrap:wrap;
+	padding-left:15px;
+}
+#nav-main ul li
+{
+	list-style:none;
+	line-height:60px;
+}
+#nav-main ul li a 
+{
+	display:block;
+	height:100%;
+	padding: 0 10px;
+	text-transform:uppercase;
+	text-decoration:none;
+	color:white;
+	font-family:arial;
+	font-size:16px;
+}
+#nav-sidebar
+{
+	position:fixed;
+	left:o;
+	bottom:0;
+	width:100%;
+	height:calc(100vh - 140px);
+	padding:0 5px;
+	background-image:url("img/background.png");
+	z-index:1000;
+	color:white;
+	font-family:space;
+	font-size:12px;
+	display: none;
+	overflow:scroll;
+}
+#nav-sidebar ul
+{
+	padding-top:15px;
+	overflow:scroll;
+}
+#nav-sidebar ul li
+{
+	line-height:60px;
+	list-style:none;
+}
+#nav-sidebar a
+{
+	display:block;
+	height:70px;
+	padding:0 10px;
+	text-decoration:none;
+	color:white;
+	font-family:space;
+	font-size:80px;
+	white-space:nowrap;
+	opacity:1;
+	margin-top:90px;
+	margin-bottom:40px;
+	text-shadow:4px 4px darkgray;
+}
+/*#nav-sidebar home
+{
+	display:block;
+	height:70px;
+	padding:0 10px;
+	text-decoration:none;
+	color:white;
+	font-family:space;
+	font-size:64px;
+	white-space:nowrap;
+	opacity:1;
+	padding-bottom:
+}*/
+#nav-sidebar span{
+	display:block;
+	height:70px;
+	padding:0 10px;
+	text-decoration:none;
+	color:white;
+	font-family:space;
+	font-size:80px;
+	white-space:nowrap;
+	opacity:1;
+	margin-bottom:40px;
+	margin-top:90px;
+	text-shadow: 4px 4px magenta;
+}
+#nav-sidebar ul li a:hover
+{
+	background-color:purple;
+}
+.content
+{	
+	width: 98%;
+	/*border: 8px solid gray;*/
+	padding: 1%;
+	background-color: f2f2f2;
+	color: black;
+	margin-bottom: 32px;
+	font-family: space, Open Sans, Sans-serif;
+	margin-top:175px;
+}
+#goon
+{
+	font-family: goonfont;
+	font-size: 72px;
+	text-shadow: 4px 4px #999999;
+	/*color: 652d96;*/
+	color: purple;
+}
+#firstlogo{
+	height:90px;
+}
+#Michigan{
+	height:90px;
+}
+#upcoming{
+}
+.dates{
+	
+}
+	font-size: 18pt;
+}
+#home{
+	color:red;
+	font-family:space;
+	font-size:12px;
+}
+.cal_goon{
+	font-size:36px;
+}
+#contact_us{
+	font-size:24px;
+}
+#Calender{
+	width:50%;
+	height:1000px%;
+}
+/*#footer{
+	margin-right:20px;
+}*/
+#Roads{
+	font-size:30pt;
+	color:darkblue;
+}
