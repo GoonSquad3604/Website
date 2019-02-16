@@ -11,6 +11,9 @@
 	</div>-->
 	<?php include("php/menu.php")?>
 	<div id="content">
+	<span id="goon">Calendar</span>
+	<br>
+	<H2 class="cal_goon">Team 3604</H2>
 	<?php include("content/calendar.php")?>
 	</div>
 	<?php include("php/footer.php")?>
