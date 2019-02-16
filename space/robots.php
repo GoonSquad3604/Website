@@ -13,8 +13,7 @@
 	<div id="content">
 	<span id="goon">Robots</span>
 	<span class="cal_goon">Team 3604</span>
-	<br><br>
-	This page has not landed yet. Check back later for updates.
+	<?php include("content/robots.php")?>
 	</div>
 	<?php include("php/footer.php")?>
 	</body>

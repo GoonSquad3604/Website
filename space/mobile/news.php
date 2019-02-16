@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Goon Squad | Calender</title>
+		<title>Goon Squad Blog | Home</title>
 		<link rel="stylesheet" type="text/css" href="stylesheetreset.css"/>
-		<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
-	</head onload="toggleNav()">
+	    <link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+	</head>
 	<body onload="toggleNav()">
+	
 	<script src="main.js"></script>
 	  <nav id="nav-main"/>
 	    <div id="btn-togle-nav" onclick="toggleNav()"></div>
@@ -24,18 +25,17 @@
 	<div class="menu">
 		<p class="link" mouseover="mouseOver()" mouseout="mouseOut()"><a href="index.php">Welcome</a><span id="rectangle"></span></p>
 		<p class="link"><a href="index.php">Calendar</a><span id="rectangle"></span></p>
-	</div>-->
-	<!--<?php include("php/menu.php")?>-->
-	<div class="content">
-	<span id="goon">Calendar</span>
-	<br>
-	<H2 class="cal_goon">Team 3604</H2>
-	<br>
-	 <iframe src="https://calendar.google.com/calendar/embed?mode=AGENDA&height=800&wkst=1&bgcolor=%23c0c0c0&src=whs.robotics.3604@gmail.com&color=%235229A3&ctz=America/New_York" height="500px" width="100%"></iframe>
-	
 	</div>
-	<?php include("php/footer.php")?>
+	<?php include("php/menu.php")?>-->
+	<div class="content">
+	<span id="goon">NEWS</span>
+	<H2 class="cal_goon">Team 3604</H2>
+	<!--<span style="float: right; font-size: 36pt; font-weight: bold; margin-top: 14px;">Team 3604</span>-->
+	
+	<?php include("../content/news.php")?>
+	</div>
+	<?php include("php/footer.php")?>	
 	</body>
-<!--<script src = "js/highlightscript.js">-->
-</script>
+<!--<script src = "js/highlightscript.js">
+</script>-->
 </html>
