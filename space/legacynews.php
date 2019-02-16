@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Goon Squad Blog | Legacy News Page</title>
+		<title>Goon Squad | Legacy News</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css"/>
 	</head>
 	<body>
@@ -14,7 +14,7 @@
 	<span id="goon">NEWS</span>
 	<br>
 	<H2>Team 3604</H2>
-	<H1 style="color:red"><b>NOTE:</b> This news page is no longer being updated. For news regarding the 2019 season and onwards, check the blog
+	<H1 style="color:red"><b>NOTE:</b> This news page is no longer being updated. For news regarding the 2019 season and onwards, check the new News page
 	instead of this page.</H1>
 	
 			<h2>1/9/18</h2>

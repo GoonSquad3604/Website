@@ -1,4 +1,4 @@
-index.php|Blog Home
+index.php|news Home
 articles.php|Articles
 authors.php|Authors
 ../index.php|Main Site

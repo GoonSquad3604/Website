@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Goon Squad | Robots</title>
+		<title>Goon Squad Blog | Home</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css"/>
 	</head>
 	<body>
@@ -11,9 +11,11 @@
 	</div>-->
 	<?php include("php/menu.php")?>
 	<div id="content">
-	<span id="goon">Robots</span>
-	<span class="cal_goon">Team 3604</span>
-	<?php include("content/robots.php")?>
+	<span id="goon">Blog</span>
+	<span style="float: right; font-size: 36pt; font-weight: bold; margin-top: 14px;">Team 3604</span>
+	<br><br>
+	<H2 style="color: red;">Coming Soon!</H2>
+	If you want to read the legacy news page, you can do so <a href="legacynews.php">here</a>.
 	</div>
 	<?php include("php/footer.php")?>
 	</body>

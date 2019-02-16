@@ -4,4 +4,4 @@ sponsors.php|Sponsors
 contact.php|Contact
 robots.php|Robots
 safety.php|Safety
-blog/index.php|Blog
+news.php|News
