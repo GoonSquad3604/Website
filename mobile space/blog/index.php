@@ -28,7 +28,7 @@
 	</div>
 	<?php include("php/menu.php")?>-->
 	<div class="content">
-	<span id="goon">News</span>
+	<span id="goon">Blog</span>
 	<H2 class="cal_goon">Team 3604</H2>
 	<!--<span style="float: right; font-size: 36pt; font-weight: bold; margin-top: 14px;">Team 3604</span>-->
 	<br><br>
