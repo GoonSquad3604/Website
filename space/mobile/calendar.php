@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Goon Squad | Calender</title>
+		<title>Goon Squad | Calendar</title>
 		<link rel="stylesheet" type="text/css" href="stylesheetreset.css"/>
 		<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
 	</head onload="toggleNav()">

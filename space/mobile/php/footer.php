@@ -23,3 +23,17 @@
 		</a>
 		<br><br>&nbsp
 		</div>
+		<script type="text/javascript" src="http://wurfl.io/wurfl.js">
+		</script>
+		<script>
+		if(WURFL.is_mobile === true && !(window.location.href.includes("mobile")))
+		{
+			var path = window.location.pathname.split("/");
+			window.location.replace("mobile/" + path[path.length-1]);
+		}
+		else if(WURFL.is_mobile === false && (window.location.href.includes("mobile")))
+		{
+			var path = window.location.pathname.split("/");
+			window.location.replace("../" + path[path.length-1]);
+		}
+		</script>
