@@ -12,6 +12,6 @@
 	</p>
 	<h2>Our Safety Captains!</h2>
 	<br>
-	<img class="SafetyP" src="img/safetyN.jpg"></img>
+	<img class="SafetyP" src="img/SafetyN.jpg"></img>
 	<img class="SafetyP" src="img/safetyA.jpg"></img>
 	<img class="SafetyP" src="img/safetyK.jpg"></img>
