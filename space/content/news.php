@@ -3,7 +3,7 @@
 <br>
 <h3>4/10/2019 - 4/13/2019</h3>
 <br>
-<p>We competed at States in Saginaw at SVSU (Saginaw Valley State University). We played on Ford Field, where we placed 15th on the field. We were on the 3rd Alliance with the alliance captains The Gems team 4362 and Lightning Robotics team 862. Our alliance was able to win Ford Field, which was hard in itself, but we also went on to the State Championship. We played 5 matches. Luckily for us though, we won, and are now State Champions! Who are we? Goon Squad!</p>
+<p>We competed at States in Saginaw at SVSU (Saginaw Valley State University). We played on Ford Field, where we placed 15th on the field. We were on the 3rd Alliance with the alliance captains The Gems, Team 4362 and Lightning Robotics, Team 862. Our alliance was able to win Ford Field, which was hard in itself, but we then went on to the State Championship. We played 8 matches. Luckily for us though, we won, and are now State Champions! Who are we? Goon Squad!</p>
 <br><br>
 <img class="RobotP" src="img/Abotstates.JPG"></img>
 <h2> We Competed at Jackson </h2>
