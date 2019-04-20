@@ -18,13 +18,9 @@
 	<p style="margin-top: 6px;">We are the Goon Squad, Team 3604. We are an FRC Robotics Team for Woodhaven High School / Woodhaven-Brownstown School District. We have been a team for 7 years and running, with many great sponsors and mentors supporting us along the way! Our school is located on Van Horn Rd in <strong>Brownstown, Michigan.</strong> </p>
 	
 	</td><td width="33%" align="center">
-	<h1>Upcoming Events:</h1>
-	<h2><i>Jackson</i></h2>
-	<h3>Week 4</h3>
-	<p class="dates">March 22nd - March 23rd</p>
-	<h2><i>States</i></h2>
-	<h3>Week 7</h3>
-	<p class="dates">April 10th - April 13th</p>
+	<h2><i>Worlds</i></h2>
+	<h3>Week 9</h3>
+	<p class="dates">April 24th - April 27th</p>
 	</td></tr></table>
 	<!--<p>We are the Goon Squad, Team 3604. We are an FRC Robotics Team for Woodhaven High School / Woodhaven-Brownstown School District. We have been a team for 7 years and running, with many great sponsors and mentors supporting us along the way! Our school is located on Van Horn Rd in <strong>Brownstown, Michigan.</strong></p>-->
 	
