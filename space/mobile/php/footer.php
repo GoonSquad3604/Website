@@ -25,7 +25,9 @@
 		</div>
 		<script type="text/javascript" src="http://wurfl.io/wurfl.js">
 		</script>
+		
 		<script>
+		/*
 		if(WURFL.is_mobile === true && !(window.location.href.includes("mobile")))
 		{
 			var path = window.location.pathname.split("/");
