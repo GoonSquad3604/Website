@@ -26,6 +26,7 @@
 	<h3><i><a style="shadow: 16px;" href="http://goonettesinvitational.org">Goonettes Invitational</a></i></h3>
 	<p class="dates">September 13th - 14th</p>
 	For more information, contact <a href="mail:goonettesinvitational@gmail.com">goonettesinvitational@gmail.com</a>
+
 	</td></tr></table>
 	<!--<p>We are the Goon Squad, Team 3604. We are an FRC Robotics Team for Woodhaven High School / Woodhaven-Brownstown School District. We have been a team for 7 years and running, with many great sponsors and mentors supporting us along the way! Our school is located on Van Horn Rd in <strong>Brownstown, Michigan.</strong></p>-->
 	
