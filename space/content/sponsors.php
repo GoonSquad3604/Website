@@ -12,7 +12,7 @@
 		<a href="http://wbsd.co"><img src="img/wbsd.png" height="64px"></a>&nbsp &nbsp &nbsp
 		<img src="img/dadara.png" height="64px">&nbsp &nbsp &nbsp
 		<a href="https://www.texasroadhouse.com/" style="text-decoration: none;"><img src="img/texasRoadhouse.png" height="64px"></a>&nbsp &nbsp &nbsp
-		<a href="http://www.nvidia.com/content/global/global.php"><img src="img/nvidia-logo.png" height="64px"></a>&nbsp &nbsp &nbsp
+		<a href="https://www.bosch.us/"><img src="img/bosch.png" height="64px"></a>&nbsp &nbsp &nbsp
 		<a href="http://bestbuy.com/"><img src="img/bestbuy.png" height="64px"></a>&nbsp &nbsp &nbsp
 		<a href="http://www.valiantcorp.com/"><img src="img/valiant.png" height="64px"></a>&nbsp &nbsp &nbsp
 		<a href="https://www.fcagroup.com/en-US/Pages/home.aspx"><img src="img/fca.png" height="64px"></a>&nbsp &nbsp &nbsp

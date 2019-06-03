@@ -26,7 +26,7 @@
 		<p class="link"><a href="index.php">Calendar</a><span id="rectangle"></span></p>
 	</div>-->
 	<!--<?php include("php/menu.php")?>-->
-	<div class="content">
+	<div class="content" height="600px;">
 	<span id="goon">Calendar</span>
 	<br>
 	<H2 class="cal_goon">Team 3604</H2>

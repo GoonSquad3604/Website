@@ -1,9 +1,9 @@
-<br><br>
+	<br><br>
 	<h3>Power Up 2018 Bot</h3>
 	<br>
 	<p>This bot won one blue banner, went to states, and went to worlds! It had the power to place power cubes anywhere and climb to great heights with its scissor lift to face the boss with ease.</p>
 	<br>
-	<img class="RobotP"src="img/powerup.jpg"></img>
+	<img class="RobotP" src="img/powerup.JPG"></img>
 	<br><br>
 	<h3>Steamworks 2017 Bot</h3>
 	<br>
