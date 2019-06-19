@@ -1,4 +1,5 @@
-<html>
+
+Indiana Robotics Invitational <html>
 	<head>
 		<title>Goon Squad | Home</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css"/>
@@ -19,8 +20,8 @@
 	
 	</td><td width="33%" align="center">
 	<h2>Upcoming Events:</h2>
-	<h3><i>Big Bang</i></h3>
-	<p class="dates">June 13th - 15th</p>
+	<h3><i>Indiana Robotics Invitational</i></h3>
+	<p class="dates">July 11th - 13th</p>
 	
 	<br>
 	<h3><i><a style="shadow: 16px;" href="http://goonettesinvitational.org">Goonettes Invitational</a></i></h3>
