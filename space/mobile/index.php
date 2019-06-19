@@ -36,10 +36,9 @@
 	  </td><td width="33%" align="center"><br><br><br>
 		<h2 style="font-size: 32pt;">Upcoming Events:</h2>
 		<br>
-		<h3 style="font-size: 16pt;"><i>Big Bang</i></h3>
+		<h3 style="font-size: 16pt;"><i>Indiana Robotics Invitational</i></h3>
 		<br>
-		<p class="dates">June 13th - 15th</p>
-		
+		<p class="dates">July 11th - 13th</p>
 		<br>
 		<br>
 		<h3 style="font-size: 16pt;"><i><a style="shadow: 16px;" href="http://goonettesinvitational.org">Goonettes Invitational</a></i></h3>
